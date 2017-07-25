@@ -3,4 +3,3 @@ type: module
 description: Removes the sticky/promote view actions added by Drupal core.
 core: 8.x
 package: Administration
-version: 1.0
