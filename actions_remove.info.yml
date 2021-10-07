@@ -1,5 +1,5 @@
 name: Actions Remove
 type: module
 description: Removes the sticky/promote view actions added by Drupal core.
-core: 8.x
+core_version_requirement: ^8.8 || ^9
 package: Administration
